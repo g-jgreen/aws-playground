@@ -92,3 +92,5 @@ Filter transactions by merchant:
 Get a transaction:
 
 `curl -X GET APIGW_URL/transactions/<transaction_id>`
+
+> Logs can be found on AWS Cloudwatch
