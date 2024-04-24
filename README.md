@@ -1,6 +1,6 @@
-# Primer infra challenge
+# AWS Playground
 
-This is the result of my undertaking of the Primer infra challenge as described on the following page: https://www.notion.so/Infrastructure-Operations-Challenge-1e8b74e60879410da7c467cd7681aa7f
+Quick setup of a few services and lambdas on AWS
 
 ## Contains: 
 - functions
@@ -59,7 +59,7 @@ Once done, move the zip to the layers directory.
 
 ### Run terraform
 
-Go to `/primer/terraform/playground` and run: 
+Go to `/terraform/playground` and run: 
 
 ```
 Init
